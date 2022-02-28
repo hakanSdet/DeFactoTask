@@ -50,4 +50,4 @@
 
  - Java 8, Selenium 4, TestNg 7(For Assertion),Junit 5 Cucumber 5, BDD, Gherkin, Singleton Driver(available parallel testing),Log4j.
 
-- Note : All steps are logged with log4j.
+- Note : All steps are logged with Log4j.
